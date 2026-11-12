@@ -1,0 +1,17 @@
+name: powys-fire
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - geopandas
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - odc-stac
+  - pandas
+  - planetary-computer
+  - pystac
+  - pystac-client
+  - rioxarray
+  - shapely
+  - xarray

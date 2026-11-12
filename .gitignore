@@ -1,0 +1,15 @@
+# Large gridded data - recreate by running the notebooks
+*.tif
+*.tiff
+*.nc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
